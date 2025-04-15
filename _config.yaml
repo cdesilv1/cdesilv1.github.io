@@ -1,0 +1,6 @@
+title: Christopher DeSilva's blog
+description: 
+baseurl: ""
+url: ""
+exclude: []
+include: ["index.html", "static", "asset-manifest.json", "manifest.json"]
